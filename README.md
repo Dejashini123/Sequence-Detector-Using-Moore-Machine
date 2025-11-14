@@ -139,6 +139,10 @@ endmodule
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/df1fe448-bce9-4f17-8442-1c9876434ccc" />
 
 
+
+
+
+
 ### Result
 
 The Sequence Detector using Moore Machine was successfully designed and simulated in Vivado Design Suite using Verilog HDL.
